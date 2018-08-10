@@ -25,7 +25,6 @@ ipaddress==1.0.22
 itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
-numpy==1.14.5+mkl
 oocsi==0.4
 Pillow==5.1.0
 psycopg2==2.7.5
